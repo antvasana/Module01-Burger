@@ -615,12 +615,12 @@ header {
 .burger {
   width: 34px;
   height: 22px;
-  background-image: url(..images/burger.svg);
-  /* background-repeat: no-repeat;
+  background-image: url(../images/burger.svg);
+  background-repeat: no-repeat;
   background-size: contain;
   background-color: transparent;
   border: none;
-  cursor: pointer; */
+  cursor: pointer;
 }
 
 /* Responsive */
